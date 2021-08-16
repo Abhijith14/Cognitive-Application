@@ -1,0 +1,5 @@
+https://www.kdnuggets.com/2019/07/computer-vision-beginners.html
+
+https://towardsdatascience.com/11-steps-to-start-with-image-processing-9f88f16b170c
+
+https://prince-canuma.medium.com/image-pre-processing-c1aec0be3edf

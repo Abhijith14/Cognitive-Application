@@ -1,0 +1,17 @@
+In the extra class today, we have covered the topics of
+Regression, Linear regression, how it works, use cases and various types of it,
+we have also explained the Basic LINEAR REGRESSION ALGORITHM using an example.
+Please go through the resources below for better understanding of the concepts.
+
+
+https://towardsdatascience.com/the-basics-linear-regression-2fc9f5124687
+
+https://onlinestatbook.com/2/regression/intro.html
+
+https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/
+
+https://towardsdatascience.com/a-beginners-guide-to-scikit-learn-14b7e51d71a4
+
+https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm
+
+https://www.datacamp.com/community/tutorials/machine-learning-python

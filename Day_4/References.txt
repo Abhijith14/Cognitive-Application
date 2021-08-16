@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=inN8seMm7UI
+
+https://rash.hashnode.dev/an-intro-to-numpy-1
+
+https://numpy.org/
+
+https://pandas.pydata.org/docs/getting_started/index.html#coming-from
+
+https://matplotlib.org/stable/tutorials/index.html
