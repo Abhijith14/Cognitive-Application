@@ -1,0 +1,11 @@
+https://machinelearningmastery.com/types-of-classification-in-machine-learning/
+
+https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/
+
+https://www.kdnuggets.com/2020/06/classification-project-machine-learning-guide.html
+
+https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+
+https://www.kaggle.com/anniepyim/essential-classification-algorithms-explained
+
+https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202
